@@ -1,0 +1,22 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "description": "redux源码分析",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happyFlyg/redux.git"
+  },
+  "keywords": [
+    "redux源码分析"
+  ],
+  "author": "windy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happyFlyg/redux/issues"
+  },
+  "homepage": "https://github.com/happyFlyg/redux#readme"
+}
